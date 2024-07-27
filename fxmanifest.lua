@@ -8,6 +8,6 @@ version '1.0.0'
 client_scripts {
     '@ox_lib/init.lua',
     'config.lua',
-    'cl.lua'
+    'accidentavoid/cl.lua'
 }
 server_script 'sv.lua'
